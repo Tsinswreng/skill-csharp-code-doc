@@ -1,4 +1,4 @@
-namespace Ngaq.Doc; // Ngaq.Doc命名空間聲明寫在最上面。這裏以Ngaq爲例、你要把Ngaq換成實際的項目名。
+namespace MyProj.Doc; // MyProj.Doc命名空間聲明寫在最上面。這裏以MyProj爲例、你要把MyProj換成實際的項目名。
 
 using Tsinswreng.CsCore;
 
