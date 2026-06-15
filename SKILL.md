@@ -1,8 +1,8 @@
 ---
 
-name: csharp-code-doc
+name: tsinswreng-csharp-code-doc
 
-description: 業務模塊文檔讀寫規範。涉及業務代碼的讀或寫時需要使用此技能
+description: C#項目 業務模塊文檔讀寫規範。涉及業務代碼的讀或寫時需要使用此技能
 
 ---
 
