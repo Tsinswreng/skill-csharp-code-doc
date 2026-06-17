@@ -14,7 +14,8 @@ using Tsinswreng.CsCore;
 
 #H[文件位置規範][
 	代碼文檔要按模塊/領域劃分文件夾。不要全寫在一起。
-	如 {{nameof(Ngaq.Doc.DictHotKey)}} 就放 查詞快捷鍵 相關文檔。
+	如 {{nameof(MyProj.Doc.DictHotKey)}} 就放 查詞快捷鍵 相關文檔。
+	(這裏nameof中引用的`MyProj.Doc`中的符號名是命名空間的名字、不是file class的類名。)
 ]
 
 #H[目錄][
